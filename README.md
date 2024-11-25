@@ -2,7 +2,7 @@
 
 **This project is responsive**
 
-- [Demo Project](https://ermiarzv.github.io/Marverick/)
+- [Demo Project](https://ermiarzv.github.io/Maverick/)
 - Developed by Ermia Razavi
 - Created - November 2024
 - 🤖 Technologies Used - Html , css(Tailwind) 
