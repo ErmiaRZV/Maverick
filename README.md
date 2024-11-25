@@ -1,4 +1,4 @@
-# Marverick
+# Maverick
 
 **This project is responsive**
 
