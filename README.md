@@ -5,9 +5,8 @@
 - [Demo Project](https://ermiarzv.github.io/Maverick/)
 - Developed by Ermia Razavi
 - Created - November 2024
-- 🤖 Technologies Used - Html , css(Tailwind) 
+- 🤖 Technologies Used - Html , Tailwind css
 - How to reach me : with my
-[instagram](https://www.instagram.com/ermia_razavi.dev) and
 [linkedin](https://www.linkedin.com/in/ermia-razavi-a611312a3/)
 
 ![Maverick - Google Chrome 11_25_2024 11_09_02 PM](https://github.com/user-attachments/assets/414784e2-2859-460e-b6df-1d905864f1c5)
